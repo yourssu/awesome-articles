@@ -10,7 +10,7 @@
 ## 기여하기
 여러분의 지식을 공유하기 위한 기여는 언제나 환영입니다. 🙌🏻
 
-기여 하기 위한 자세한 가이드라인은 [contribute](./contribute.md)파일을 참고해주세요.
+기여 하기 위한 자세한 가이드라인은 [contribute](./CONTRIBUTING.md) 파일을 참고해주세요.
 
 ## 📜 라이선스 (License)
 
