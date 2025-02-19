@@ -20,6 +20,7 @@
 - [쏘카](https://tech.socarcorp.kr/)
 - [29cm](https://medium.com/29cm)
 - [카카오 모빌리티](https://developers.kakaomobility.com/techblogs)
+- [농심](https://tech.cloud.nongshim.co.kr/)
 
 ### 해외
 - [Airbnb](https://medium.com/airbnb-engineering)
