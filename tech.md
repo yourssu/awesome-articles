@@ -1,5 +1,8 @@
-## 기술 블로그
+# 기술 블로그
 각 기업의 기술 블로그를 정리해놓은 글입니다.
+
+### 블로그 모음
+ - [Velopers](https://www.velopers.kr/)
 
 ### 국내
 - [토스](https://toss.tech/)

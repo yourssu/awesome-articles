@@ -22,3 +22,7 @@
 
 #### [개발자를 위한 교양서](https://ggulbul.com/qpv5x427gv4nj2kyn3dw) - 꿀벌의 개발일지(개인블로그)
   - 개발을 할 때, 고려할 만한 UX와 DX를 배울 수 있습니다.
+
+#### [달리는 기차의 바퀴 교체하기](https://toss.tech/article/restructuring-planning) - 토스 테크
+  - 문제점을 정의하고, 리팩토링을 어떻게 효과적으로 설계하는 지에 대한 게시글이에요.
+  - [2편 Restructuring](https://toss.tech/article/25775) 게시글을 통해 실제로 사용하는 코드와 Clean Architecture에 대한 전반적인 설명을 토대로 적절한 추상화와 의존성을 어떻게 주입하는지에 대해 설명하면서 구체적인 예시를 확인할 수 있어요.
