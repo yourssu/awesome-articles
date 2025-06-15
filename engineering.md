@@ -39,3 +39,8 @@
 #### [Speeding up the JavaScript ecosystem](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
 - 자바스크립트 빌드 도구를 Go나 Rust와 같은 컴파일 언어로 다시 작성하는 것이 유행이지만 자바스크립트 기반 도구들의 성능도 개선할 여지가 많이 남아있다는 점을 보여주는 시리즈입니다.
 - 자바스크립트 빌드 도구와 성능 최적화에 관심이 많은 분들이 읽으면 좋을 것 같습니다.
+
+#### [Why I’m skeptical of rewriting JavaScript tools in “faster” languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
+- 자바스크립트 빌드 도구들을 Rust나 Go와 같은 컴파일 언어로 다시 작성하는 것만으로 성능이 좋아지는 것일까요?
+- 글의 저자는 바이트코드 캐싱과 JIT, JS 생태계의 활발한 기여와 디버깅 용이성 측면에서 다시 생각해볼 필요가 있음을 주장합니다.
+- TypeScript 컴파일러를 Go로 포팅한 것처럼 JS 빌드 도구를 컴파일 언어로 재작성하는 것이 거대한 흐름이 되었지만 그 트레이드 오프는 무엇인지 생각해 보게 하는 글입니다.
