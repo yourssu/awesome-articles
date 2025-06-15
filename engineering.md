@@ -35,3 +35,7 @@
 #### [요즘 개발자들은 AI로 이렇게 프로그래밍해요](https://kdy1.dev/2024-3-11-ai-qna)
 - AI 툴을 활용한 개발 Q&A 가 많이 있어요!
 - AI 툴에 대한 인사이트를 Q&A를 통해 얻어 갈 수 있어요!
+
+#### [Speeding up the JavaScript ecosystem](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
+- 자바스크립트 빌드 도구를 Go나 Rust와 같은 컴파일 언어로 다시 작성하는 것이 유행이지만 자바스크립트 기반 도구들의 성능도 개선할 여지가 많이 남아있다는 점을 보여주는 시리즈입니다.
+- 자바스크립트 빌드 도구와 성능 최적화에 관심이 많은 분들이 읽으면 좋을 것 같습니다.
